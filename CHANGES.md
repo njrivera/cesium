@@ -13,7 +13,7 @@
 
 - Added a `polylinePositions` getter to `Cesium3DTileFeature` that gets the decoded positions of a polyline vector feature. [#9684](https://github.com/CesiumGS/cesium/pull/9684)
 
-- Added the ability to select imagery layers from the Cesium viewer. [#9651](https://github.com/CesiumGS/cesium/pull/9651)
+- Added the ability to select imagery layers. [#9651](https://github.com/CesiumGS/cesium/pull/9651)
 
 ##### Fixes :wrench:
 
